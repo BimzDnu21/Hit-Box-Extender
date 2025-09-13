@@ -10,7 +10,3 @@ Games that belong to the **War / Military genre are not supported**.
 
 ## ❌ Not Supported
 - War games (FPS, TPS, Strategy, or Military themed)
-
----
-
-⚠️ Please make sure you are using a **fighting-type game** before running this project.
